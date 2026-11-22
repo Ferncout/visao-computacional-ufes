@@ -5,11 +5,11 @@
 # Import the required libraries
 # Add any other libraries you want
 
-import numpy as np
-import matplotlib.pyplot as plt
 import math
-import cv2 as cv
 
+import cv2 as cv
+import matplotlib.pyplot as plt
+import numpy as np
 
 ########################################################################################################################
 # Function to normalize points
